@@ -1,21 +1,11 @@
 
-2763
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
 preview
 <h1 align="center">Hi 👋, Berke Palamutcu</h1>
 <h3 align="center">Programming is my life...</h3>
 
 - 🔭 I’m currently working on [fullstack e-commerce application](https://github.com/BerkePalamutcu/Fashion-Portfolio-Project)
 
-- 🌱 I’m currently learning **Angular, rxJs, ngRx**
+- 🌱 I’m currently learning **reactive programming paradigms in Angular**
 
 - 💬 Ask me about **react, angular**
 
