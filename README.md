@@ -1,7 +1,7 @@
 
 preview
-<h1 align="center">Hi 👋, Berke Palamutcu</h1>
-<h3 align="center">Programming is my life...</h3>
+<h1 align="center"> Berke Palamutcu</h1>
+<h3 align="center">Programming became my new life in 2022 January</h3>
 
 - 🔭 I’m currently working on [fullstack e-commerce application](https://github.com/BerkePalamutcu/Fashion-Portfolio-Project)
 
