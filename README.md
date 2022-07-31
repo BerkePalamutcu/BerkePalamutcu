@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on [fullstack e-commerce application](https://github.com/BerkePalamutcu/Fashion-Portfolio-Project)
 
-- 🌱 I’m currently learning **reactive programming paradigms in Angular**
+- 🌱 I’m currently learning **Reactive programming paradigms in Angular**
 
-- 💬 Talk me about **react, angular or Redux**
+- 💬 Talk me about **React, Angular or Redux**
 
 - 📫 How to reach me **bspalamutcu@gmail.com**
 
