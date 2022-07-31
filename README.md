@@ -1,6 +1,6 @@
 
 <h1 align="center"> Berke Palamutcu</h1>
-<h3 align="center">Programming became my passion in 2022 January</h3>
+<h3 align="center">React & Angular is my passion</h3>
 
 - 🔭 I’m currently working on [fullstack e-commerce application](https://github.com/BerkePalamutcu/Fashion-Portfolio-Project)
 
