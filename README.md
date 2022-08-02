@@ -1,6 +1,7 @@
 
-<h1 align="center"> Berke Palamutcu</h1>
-<h3 align="center"></h3>
+<h1 align="left"> Berke Palamutcu</h1>
+<h3 align="left">Frontend developer</h3>
+<br/>
 
 - 🔭 I’m currently working on [fullstack e-commerce application](https://github.com/BerkePalamutcu/Fashion-Portfolio-Project)
 
@@ -9,7 +10,7 @@
 - 💬 Talk to me about **React, Angular or Redux**
 
 - 📫 How to reach me **bspalamutcu@gmail.com**
-
+<br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/cptprogrammer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cptprogrammer" height="30" width="40" /></a>
