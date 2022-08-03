@@ -9,7 +9,7 @@
 
 - 💬 I love problem solving and algorithm challanges**
 
-- 📫 How to reach me **bspalamutcu@gmail.com**
+- 📫 Reach me through **bspalamutcu@gmail.com** 
 <br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
