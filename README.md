@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Reactive programming paradigms in Angular**
 
-- 💬 I love problem solving and algorithm challanges**
+- ❤️ I love problem solving and algorithm challanges**
 
 - 📫 Reach me through **bspalamutcu@gmail.com** 
 <br/>
