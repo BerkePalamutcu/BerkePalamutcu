@@ -3,7 +3,7 @@
 <h3 align="left">Frontend developer</h3>
 <br/>
 
-- 🔭 I’m currently working on [fullstack e-commerce application](https://github.com/BerkePalamutcu/Fashion-Portfolio-Project)
+- 🔭 I’m currently working on Angular Projects
 
 - 🌱 I’m currently learning **Reactive programming paradigms in Angular**
 
