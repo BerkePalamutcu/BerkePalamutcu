@@ -37,7 +37,7 @@
 <h4 align="left">State management tools:</h4>
 <p alighn="left"><a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
  <a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="reduxtoolkit" width="40" height="40"/> </a>
-<a href="https://ngrx.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/ngrx.svg" alt="ngrx" width="40" height="40"/> </a> </p>
+ </p>
 
 <h4 align="left">Supplementary Frontend tools:</h4>
 <p align="left"><a href="https://storybook.js.org/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/22632046?s=280&v=4" alt="rxjs" width="40" height="40"/> </a><a href="https://rxjs.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/rxjs-1.svg" alt="rxjs" width="40" height="40"/><a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a><a href="https://greensock.com/gsap/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" alt="gsap" width="40" height="40"/> </a> </p>
