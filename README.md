@@ -3,12 +3,6 @@
 <h3 align="left">Frontend developer</h3>
 <br/>
 
-- 🔭 I’m currently working on Angular Projects
-
-- 🌱 I’m currently learning **Reactive programming paradigms in Angular**
-
-- ❤️ I love problem solving and algorithm challanges**
-
 - 📫 Reach me through **bspalamutcu@gmail.com** 
 <br/>
 <h3 align="left">Connect with me:</h3>
