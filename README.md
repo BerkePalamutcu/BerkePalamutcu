@@ -1,6 +1,5 @@
 
 <h1 align="left"> Berke Palamutcu</h1>
-<h3 align="left">Frontend developer</h3>
 <br/>
 
 - 📫 Reach me through **bspalamutcu@gmail.com** 
