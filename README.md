@@ -24,9 +24,10 @@
 
 </p>
 
-<h4 align="left">Main frontend frameworks and libraries:</h4>
+<h4 align="left">Main frameworks and libraries:</h4>
 <p align="left"><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/" target="_blank" rel="noreferrer"> <img src="https://s3-ap-southeast-1.amazonaws.com/homepage-media/wp-content/uploads/2020/03/04092434/NET_Core_Logo.png" alt="net" width="40" height="40"/></a>
 
 </p>
 <h4 align="left">State management tools:</h4>
