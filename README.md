@@ -1,5 +1,6 @@
 
 <h1 align="left"> Berke Palamutcu</h1>
+<p align="left"> I was a merchant ship captain 🚢  and then some miracle happened and I fell in love with programming. I found myself coding React, Angular apps. I especially love Angular and .NET framework. I am fascinated by the harmony they make together. I am a fan of OOP mostly but I would love to try different paradigms too. Let's get to know eachother !</p>
 <br/>
 
 - 📫 Reach me through **bspalamutcu@gmail.com** 
