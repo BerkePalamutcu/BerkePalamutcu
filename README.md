@@ -38,7 +38,7 @@
  </p>
 
 <h4 align="left">Testing Libraries:</h4>
-<p alighn="left"><a href="https://jestjs.io/docs/tutorial-react" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/max/600/1*RQwRLQ0yyCvYmRn_Nst5yg.png" alt="jest" width="40" height="40"/>
+<p alighn="left"><a href="https://jestjs.io/docs/tutorial-react" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/max/600/1*RQwRLQ0yyCvYmRn_Nst5yg.png" alt="jest" width="40" height="40"/></p>
 
 <h4 align="left">Supplementary Frontend tools:</h4>
 <p align="left"><a href="https://storybook.js.org/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/22632046?s=280&v=4" alt="rxjs" width="40" height="40"/> </a><a href="https://rxjs.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/rxjs-1.svg" alt="rxjs" width="40" height="40"/><a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> </p>
