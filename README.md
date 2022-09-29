@@ -29,12 +29,16 @@
 <p align="left"><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a>
   <a href="https://learn.microsoft.com/en-us/dotnet/" target="_blank" rel="noreferrer"> <img src="https://s3-ap-southeast-1.amazonaws.com/homepage-media/wp-content/uploads/2020/03/04092434/NET_Core_Logo.png" alt="net" width="40" height="40"/></a>
-
-</p>
+    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://www.datocms-assets.com/45470/1631026680-logo-react-native.png" alt="reactnative" width="60" height="40"/></a>
+  </p>
+  
 <h4 align="left">State management tools:</h4>
 <p alighn="left"><a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
  <a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="reduxtoolkit" width="40" height="40"/> </a>
  </p>
+
+<h4 align="left">Testing Libraries:</h4>
+<p alighn="left"><a href="https://jestjs.io/docs/tutorial-react" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/max/600/1*RQwRLQ0yyCvYmRn_Nst5yg.png" alt="jest" width="40" height="40"/>
 
 <h4 align="left">Supplementary Frontend tools:</h4>
 <p align="left"><a href="https://storybook.js.org/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/22632046?s=280&v=4" alt="rxjs" width="40" height="40"/> </a><a href="https://rxjs.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/rxjs-1.svg" alt="rxjs" width="40" height="40"/><a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> </p>
