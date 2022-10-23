@@ -3,7 +3,7 @@
 <p align="left"> I was a merchant ship captain 🚢  and then some miracles happened and I fell in love with programming. I found myself coding React, Angular apps. I am a fan of OOP mostly but I would love to try different paradigms too. I am interested in many different things like Math, Cryptography, Algorithms, Web Development, Machine learning and IoT. That makes me jack of all trades but my main specialities are frontend web technologies. Let's get to know eachother !</p>
 <br/>
 
-- 📫 Reach me through **bspalamutcu@gmail.com** 
+
 <br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
