@@ -1,6 +1,14 @@
 
 <h1 align="left"> Berke Palamutcu</h1>
-<p align="left"> I was a merchant ship captain 🚢  and then some miracles happened and I fell in love with programming. I found myself coding React, Angular apps. I am a fan of OOP mostly but I would love to try different paradigms too. I am interested in many different things like Math, Cryptography, Algorithms, Web Development, Machine learning and IoT. That makes me jack of all trades but my main specialities are frontend web technologies. Let's get to know eachother !</p>
+<p align="left"> Greetings,
+
+I am a former merchant ship captain with a passion for programming. Since making the transition, I have delved into the world of web development, with a focus on frontend technologies such as React and Angular. I am a fan of object-oriented programming and am always eager to explore other paradigms to expand my skillset.
+
+Beyond web development, I am fascinated by a wide range of topics including mathematics, cryptography, algorithms, machine learning, and IoT. I consider myself to be a "jack of all trades", but my expertise lies primarily in frontend web technologies.
+
+My GitHub repository showcases my experience working on various projects, including some personal ones that I have enjoyed building in my free time. I enjoy collaborating with others and sharing knowledge with the community, so feel free to reach out to me with any questions or ideas.
+
+Thank you for taking the time to visit my profile, and I look forward to connecting with you! !</p>
 <br/>
 
 
