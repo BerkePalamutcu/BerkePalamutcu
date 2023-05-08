@@ -2,7 +2,7 @@
 <h1 align="left"> Berke Palamutcu</h1>
 <p align="left"> Greetings,
 
-I am a former merchant ship captain with a passion for programming. Since making the transition, I have delved into the world of web development, with a focus on frontend technologies such as React and Angular. I am a fan of object-oriented programming and am always eager to explore other paradigms to expand my skillset.
+I have a passion for programming. Since making the transition, I have delved into the world of web development, with a focus on frontend technologies such as React and Angular. I am a fan of object-oriented programming and am always eager to explore other paradigms to expand my skillset.
 
 Beyond web development, I am fascinated by a wide range of topics including mathematics, cryptography, algorithms, machine learning, and IoT. I consider myself to be a "jack of all trades", but my expertise lies primarily in frontend web technologies.
 
