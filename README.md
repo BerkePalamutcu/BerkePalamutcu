@@ -1,14 +1,18 @@
 
 <h1 align="left"> Berke Palamutcu</h1>
-<p align="left"> Greetings,
+<p align="left">🚀 About Me
 
-I have a passion for programming. Since making the transition, I have delved into the world of web development, with a focus on frontend technologies such as React and Angular. I am a fan of object-oriented programming and am always eager to explore other paradigms to expand my skillset.
+🌱 I'm a Software Developer at Continental, adept at working with Python, C, C++, and Assembly to build scalable , fault tolerant systems.
 
-Beyond web development, I am fascinated by a wide range of topics including mathematics, cryptography, algorithms, machine learning, and IoT. I consider myself to be a "jack of all trades", but my expertise lies primarily in frontend web technologies.
+🎨 My true passion lies in crafting amazing UIs that users love. With a strong foundation in Angular, React, and React Native, I've brought to life numerous web and mobile interfaces that are not just functional but visually stunning.
 
-My GitHub repository showcases my experience working on various projects, including some personal ones that I have enjoyed building in my free time. I enjoy collaborating with others and sharing knowledge with the community, so feel free to reach out to me with any questions or ideas.
+💡 Driven by my love for both web and mobile development, I constantly push the boundaries of what's possible in frontend design and functionality.
 
-Thank you for taking the time to visit my profile, and I look forward to connecting with you! !</p>
+🔍 Prior to my current role, I delved deep into frontend frameworks, mastering the nuances that make for a memorable user experience.
+
+🧠 A staunch believer in continuous learning, I've sharpened my problem-solving skills over the years and revel in the joy of overcoming new challenges.
+
+
 <br/>
 
 
