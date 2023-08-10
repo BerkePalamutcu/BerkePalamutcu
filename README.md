@@ -2,7 +2,7 @@
 <h1 align="left"> Berke Palamutcu</h1>
 <p align="left">🚀 About Me
 
-🌱 I'm a Software Developer at Continental, adept at working with Python, C, C++, and Assembly to build scalable , fault tolerant systems.
+🌱 I'm a Software Developer at Continental, adept at working with Python, C, C++, and Assembly to build scalable , fault tolerant embedded systems.
 
 🎨 My true passion lies in crafting amazing UIs that users love. With a strong foundation in Angular, React, and React Native, I've brought to life numerous web and mobile interfaces that are not just functional but visually stunning.
 
